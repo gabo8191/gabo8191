@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Herramientas: <strong>NetBeans, Visual Studio Code, MySQL, postgreSQL.</strong>
+  💼 Herramientas: <strong>NetBeans, Visual Studio Code, MySQL, postgreSQL, Git, SQL</strong>
 </p>
 
 <p align="left">
