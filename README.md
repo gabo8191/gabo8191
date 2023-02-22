@@ -1,30 +1,22 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
 <p align="left"> 
- Hola, soy Gabriel y me apasiona la tecnología y la programación. Estoy constantemente aprendiendo y adaptándome a nuevos entornos y desafíos. Creo que mi enfoque en el aprendizaje continuo y mi habilidad para resolver problemas me hacen ideal para el papel de programador en cualquier empresa. Estoy ansioso por aplicar mis habilidades y conocimientos en un entorno laboral y contribuir al éxito de la empresa. Estoy enfocado en el area del <strong>Backend</strong>.<br>
-  Soy estudiante de Ingeniería en Sistemas y Computación y cuento con un tecnologo en Análisis y Desarollo en Sistemas de Información
+ Hi, I'm Gabriel and I'm passionate about technology and programming. I'm constantly learning and adapting to new environments and challenges. I believe my focus on continuous learning and problem-solving skills make me ideal for the role of programmer in any company. I'm eager to apply my skills and knowledge in a work environment and contribute to the company's success. My focus is on the <strong>Backend</strong> area.<br>
+ I'm a Systems and Computer Engineering student and hold a Technologist degree in Information Systems Analysis and Development.
 </p>
-
 <p align="left">
-  🦄 Lenguajes: <strong>Python, Java, PHP, React</strong>
+  🦄 Languages: <strong>Python, Java, PHP, Go & Bash</strong>
 </p>
-
 <p align="left">
-  💼 Herramientas: <strong>NetBeans, Visual Studio Code, MySQL, postgreSQL, Git, SQL</strong>
+  💼 Tools: <strong>NetBeans, Visual Studio Code, MySQL, postgreSQL, Git, SQL</strong>
 </p>
-
 <p align="left">
-  💌 Si estás interesado en saber más sobre mí o en trabajar juntos, no dudes en ponerte en contacto a través de mis redes sociales. Estaré encantado de hablar contigo y responder cualquier pregunta que puedas tener. ¡Espero conectarnos pronto!: ⤵️
+  💌 If you're interested in knowing more about me or working together, feel free to contact me through my social networks. I'll be happy to chat with you and answer any questions you may have. Looking forward to connecting soon!: ⤵️
 </p>
-
 <p align="left">
-  <a href="https://gabo8191.github.io/portfolio/" alt="Mi Portafolio">
+  <a href="https://gabo8191.github.io/portfolio/" alt="My Portfolio">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-
-  <a href="https://www.linkedin.com/in/gabodev8191/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
+  <a href="https://www.linkedin.com/in/gabodev8191/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   <a href="https://api.whatsapp.com/send?phone=573188708253" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-</p>  
-
+</p>
