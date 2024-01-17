@@ -115,6 +115,3 @@ As a DevOps enthusiast, I am particularly drawn to aspects related to CI/CD, sec
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
