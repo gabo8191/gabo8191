@@ -41,7 +41,7 @@ As a DevOps enthusiast, I am particularly drawn to aspects related to CI/CD, sec
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://gabo8191.github.io/portfolio/static/media/about.734807aafca53e19b87e.jpg" align="center" style="width: 100%" />
+<img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" style="width: 100%" />
 </div>  
 
 
