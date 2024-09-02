@@ -16,26 +16,25 @@
 
 ### Glad to see you here!  
 
-I am passionate about technology and programming, currently pursuing a degree in Systems and Computer Engineering. Additionally, I have successfully completed a technologist program in Analysis and Development of Information Systems.
-
-My expertise lies in the backend and database areas, where I work with languages such as PHP (using Laravel) and Java (with Spring). I have a solid foundation in database management systems, API development, and I am known for my proficiency in query optimization and the design of efficient database schemas.
-
-As a DevOps enthusiast, I am particularly drawn to aspects related to CI/CD, security, and process optimization. My commitment to detail and efficiency is clearly reflected in my coding practices. Furthermore, I possess frontend skills, especially in Angular, Tailwind, and Bootstrap. In summary, I am a dedicated professional with a broad skill set in technology, programming, and DevOps.  
-  
+Backend developer with experience in implementing robust and scalable architectural solutions, particularly in large Laravel projects and legacy systems. My experience includes applying design patterns such as Singleton and Observer, managing authentication with Laravel Passport, and optimizing database performance in response times along with applying normalization techniques.
+Beyond Laravel, I am proficient in Spring Boot, including Spring Security, Eureka, and microservices, allowing me to build and maintain robust, distributed systems. My knowledge extends to core DevOps practices, where I work with Docker, Kubernetes, and CI/CD pipelines to streamline development and deployment processes.
+I have a strong background in automating critical processes, API integration and improving user experiences through frontend development with Blade and Vue.js. In addition, I have led software training teams, ensuring smooth onboarding and effective adoption of new technologies.
+I am currently focused on opportunities in the fintech, software consulting or computer science areas. I am looking for technical challenges that allow me to grow alongside a strong team, with aspirations to eventually move into leadership roles, such as a tech lead, where I can manage and inspire development teams.
 
 <br/>  
 
 
 ## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I am currently working on my own blog using laravel and fillament.   
   
+🔭 Current Project: Developing a personal blog using Laravel and Filament, focusing on creating a scalable and maintainable architecture.
 
-- 🌱 I am currently learning and improving my skills with Angular and node.  
-  
+🌱 Learning: Expanding my expertise in Angular and Node.js, aiming to master both frontend and backend frameworks for full-stack development.
 
-- ❓ You can ask me questions related to Laravel, Spring, Angular and Devops.  
+❓ Ask Me About: Laravel, Spring, Angular, DevOps, and scalable software architecture.
+
+</td></tr></table>
 
 
 </td><td valign="top" width="50%">
