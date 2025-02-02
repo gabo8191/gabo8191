@@ -20,8 +20,6 @@
 
 > Backend Developer with 2.5 years of experience in multi-country projects, specializing in distributed systems and scalable architectures. Strong foundation in computer systems engineering with practical experience in Laravel and NestJS ecosystems. Passionate about system optimization and modern DevOps practices. Successfully contributed to projects spanning multiple Latin American markets, developing solutions that adapt to different regional requirements.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo8191&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
 ### Core Technical Strengths
 
 ```yaml
@@ -51,13 +49,6 @@ DevOps & Infrastructure:
   - Kubernetes Basics
   - Monitoring Setup
 ```
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabo8191&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabo8191&theme=tokyonight&hide_border=true" />
-</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Stack
 
@@ -167,10 +158,28 @@ Eager to tackle challenging technical problems and contribute to innovative solu
 
 </div>
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabo8191&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=gabo8191&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117">
+      </td>
+      <td>
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gabo8191&theme=tokyonight&hide_border=true&background=0D1117">
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo8191&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117">
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabo8191&theme=tokyo-night&hide_border=true&bg_color=0D1117">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=0D1117&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/gabo8191?style=flat&color=0D1117" alt="Followers">
+  <img src="https://img.shields.io/github/stars/gabo8191?style=flat&color=0D1117" alt="Stars">
+</p>
