@@ -1,116 +1,176 @@
-## Hey 👋, I'm Gabo!  
-  
+<div align="center">
 
-<a href="https://linkedin.com/in/gabodev8191" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/gabo8191" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@backgab_dev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Gabriel Castillo
 
-
-
-### Glad to see you here!  
-
-Backend developer with experience in implementing robust and scalable architectural solutions, particularly in large Laravel projects and legacy systems. My experience includes applying design patterns such as Singleton and Observer, managing authentication with Laravel Passport, and optimizing database performance in response times along with applying normalization techniques.
-Beyond Laravel, I am proficient in Spring Boot, including Spring Security, Eureka, and microservices, allowing me to build and maintain robust, distributed systems. My knowledge extends to core DevOps practices, where I work with Docker, Kubernetes, and CI/CD pipelines to streamline development and deployment processes.
-I have a strong background in automating critical processes, API integration and improving user experiences through frontend development with Blade and Vue.js. In addition, I have led software training teams, ensuring smooth onboarding and effective adoption of new technologies.
-I am currently focused on opportunities in the fintech, software consulting or computer science areas. I am looking for technical challenges that allow me to grow alongside a strong team, with aspirations to eventually move into leadership roles, such as a tech lead, where I can manage and inspire development teams.
-
-<br/>  
-
-
-## Rapidfire  
-
-<table><tr><td valign="top" width="50%">
-  
-🔭 Current Project: Developing a personal blog using Laravel and Filament, focusing on creating a scalable and maintainable architecture.
-
-🌱 Learning: Expanding my expertise in Angular and Node.js, aiming to master both frontend and backend frameworks for full-stack development.
-
-❓ Ask Me About: Laravel, Spring, Angular, DevOps, and scalable software architecture.
-
-</td></tr></table>
-
-
-</td><td valign="top" width="50%">
+`Backend Developer` • `DevOps Enthusiast` • `Computer Systems Engineer`
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" style="width: 100%" />
-</div>  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@gcastillo8191)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabo8191)
 
-</td></tr></table>  
+</div>
 
-<br/>  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gabo8191.gabo8191)
 
+</div>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-</div>  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> About Me
 
-<br/>  
+> Backend Developer with 2.5 years of experience in multi-country projects, specializing in distributed systems and scalable architectures. Strong foundation in computer systems engineering with practical experience in Laravel and NestJS ecosystems. Passionate about system optimization and modern DevOps practices. Successfully contributed to projects spanning multiple Latin American markets, developing solutions that adapt to different regional requirements.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo8191&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+### Core Technical Strengths
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabo8191&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+```yaml
+Systems Engineering:
+  - Distributed Systems Understanding
+  - System Architecture Fundamentals
+  - Performance Optimization
+  - Multi-region Deployment
 
-</td><td valign="top" width="50%">
+Backend Development:
+  - Clean Architecture Practices
+  - Design Patterns:
+      - SOLID Principles
+      - Repository Pattern
+      - Factory Pattern
+  - Authentication & Authorization:
+      - OAuth 2.0
+      - JWT Implementation
+  - Database:
+      - Query Optimization
+      - Indexing Strategies
+      - Multi-region Data Management
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo8191&hide_border=true&layout=compact" align="left" style="width: 100%" />
+DevOps & Infrastructure:
+  - CI/CD Pipeline Implementation
+  - Docker Containerization
+  - Kubernetes Basics
+  - Monitoring Setup
+```
 
-</td></tr></table>  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabo8191&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabo8191&theme=tokyonight&hide_border=true" />
+</div>
 
-  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Stack
 
-<br/>  
+<div align="center">
 
-![Profile views counter](https://komarev.com/ghpvc/?username=gabo8191&&style=flat-square)  
-  
+### Backend & Systems
 
-<br/>  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### Databases & Data Systems
 
-<br />
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Engineering Focus
+
+```typescript
+interface EngineeringStrategy {
+  currentFocus: string[];
+  learning: string[];
+  upcomingGoals: string[];
+}
+
+const engineeringFocus: EngineeringStrategy = {
+  currentFocus: [
+    'Multi-region System Architecture',
+    'Distributed Systems Implementation',
+    'Performance Optimization',
+    'DevOps Best Practices',
+  ],
+  learning: [
+    'Advanced System Design Patterns',
+    'Kubernetes Orchestration',
+    'Event-Driven Architecture',
+    'Cloud Infrastructure',
+    'Microservices Communication Strategies',
+    'NestJS Advanced Features',
+  ],
+  upcomingGoals: ['AWS Certifications', 'System Design Mastery', 'Microservices Architecture'],
+};
+```
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Professional Achievements
+
+- 🎯 **System Architecture & Development**
+
+  - Developed and maintained applications serving users across multiple Latin American countries
+  - Implemented region-specific features and optimizations for different market requirements
+  - Contributed to system architecture decisions for cross-border applications
+  - Designed and implemented multi-language support systems
+
+- 🚀 **Backend Development**
+
+  - Built robust APIs handling regional business logic variations
+  - Implemented efficient caching strategies improving response times
+  - Developed authentication systems supporting multiple user types
+  - Created comprehensive API documentation for international teams
+
+- 💡 **Infrastructure & DevOps**
+
+  - Contributed to containerization of applications using Docker
+  - Implemented CI/CD pipelines for automated deployments
+  - Set up monitoring systems for multi-region applications
+  - Managed database migrations across different environments
+
+- 🔧 **Team Collaboration**
+  - Worked effectively with international development teams
+  - Participated in cross-cultural technical discussions
+  - Contributed to code review processes
+  - Shared knowledge through documentation and team presentations
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Let's Connect
+
+<div align="center">
+
+**Specialized in backend development and distributed systems with international project experience**
+Eager to tackle challenging technical problems and contribute to innovative solutions!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabo8191&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
