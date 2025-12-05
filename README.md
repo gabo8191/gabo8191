@@ -25,7 +25,7 @@ Fullstack developer with 3 years building complete systems for banking, insuranc
 
 I handle both backend (APIs, databases, scheduled jobs, ETL processes) and frontend (React, Angular, Vue). I work with sensitive data in regulated environments where accuracy and availability matter.
 
-**Current work:** Building data-intensive applications, optimizing databases for high-volume queries, and creating pipelines for batch processing. Learning more about Spark, dbt, and GCP tools (BigQuery, Dataflow) for larger-scale data projects.
+**Current focus:** Building data-intensive applications, optimizing databases for high-volume queries, creating pipelines for batch processing, and developing systems that transform raw data into actionable insights through dashboards and reports.
 
 ---
 
@@ -54,7 +54,6 @@ I handle both backend (APIs, databases, scheduled jobs, ETL processes) and front
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -89,20 +88,21 @@ const currentFocus = {
     "Data-intensive fullstack applications",
     "ETL pipelines for batch processing",
     "Optimized APIs for analytics and reporting",
-    "Systems handling large file imports/exports"
+    "Systems handling large file imports/exports",
+    "Dashboards for data visualization"
   ],
   
-  learning: [
-    "Apache Spark for distributed processing",
-    "dbt for data transformation",
-    "GCP tools (BigQuery, Dataflow, Cloud Composer)",
-    "Advanced SQL optimization techniques"
+  exploring: [
+    "Advanced SQL optimization techniques",
+    "Large-scale data processing patterns",
+    "Real-time analytics implementations",
+    "Data pipeline orchestration"
   ],
   
   interested: [
-    "Real-time data processing",
-    "Machine learning integration",
-    "Large-scale pipeline orchestration"
+    "Distributed systems",
+    "Performance optimization at scale",
+    "Business intelligence solutions"
   ]
 };
 ```
@@ -111,14 +111,14 @@ const currentFocus = {
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabo8191&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabo8191&theme=tokyonight&hide_border=true&background=0D1117">
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabo8191&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo8191&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo8191&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117">
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabo8191&theme=tokyonight&hide_border=true" alt="gabo8191" />
+</div>
 
 ---
 
@@ -133,7 +133,8 @@ Building scalable systems that process large volumes of information for banking,
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=0D1117&style=flat" alt="Profile Views">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=0e75b6&style=flat" alt="gabo8191" />
+</div>
+
 </div>
