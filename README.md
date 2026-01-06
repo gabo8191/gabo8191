@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Data-Intensive%20Systems&descAlignY=52&descSize=18"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+systems+that+process;large+volumes+of+data+%F0%9F%9A%80;Banking+%E2%80%A2+Insurance+%E2%80%A2+Retail" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+data-intensive+systems;ETL+pipelines+%7C+APIs+%7C+Batch+processing;Banking+%E2%80%A2+Insurance+%E2%80%A2+Retail" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,69 +17,81 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Gabriel Castillo"
-        self.role = "Full-Stack Developer"
-        self.experience = "3+ years"
-        self.location = "Colombia 🇨🇴"
+class Gabriel:
 
-    def sectors(self):
-        return ["Banking", "Insurance", "Retail"]
+    role = "Software Engineer"
+    focus = "Data-Intensive Systems"
+    years = 3
 
-    def daily_tools(self):
-        return {
-            "backend": ["Laravel", "NestJS", "Spring Boot"],
-            "frontend": ["React", "Angular", "Vue.js"],
-            "databases": ["PostgreSQL", "MySQL", "Redis"],
-            "languages": ["TypeScript", "PHP", "Python", "Java"]
-        }
+    industries = ["banking", "insurance", "retail"]
 
-    def what_i_build(self):
-        return [
-            "REST APIs handling 10K+ products",
-            "ETL pipelines for batch processing",
-            "Interbank messaging systems (SWIFT/ISO 20022)",
-            "Dashboards for analytics and reporting",
-            "QR authentication systems"
-        ]
+    # what I actually use day to day
+    stack = {
+        "languages": ["Python", "TypeScript", "PHP", "Java"],
+        "data": ["PostgreSQL", "MySQL", "Redis", "Airflow"],
+        "backend": ["Laravel", "NestJS", "Spring Boot"],
+        "frontend": ["React", "Angular", "Vue.js"],  # when needed
+        "infra": ["Docker", "Kubernetes", "Nginx"],
+        "monitoring": ["Grafana", "Prometheus"],
+    }
 
-me = SoftwareEngineer()
+    # patterns I've worked with in production
+    architecture = ["DDD", "Hexagonal", "Microservices", "Event-Driven"]
 ```
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Software engineer with 3 years building systems for banking, insurance, and retail. I've worked on interbank messaging (SWIFT/ISO 20022), inventory platforms handling thousands of products, and the ETL jobs that keep everything in sync.
 
-### What I do best
+My background is full-stack, but I'm moving deeper into data engineering — pipelines, batch processing, and systems where the data is the product.
 
-- 🔄 **Data Processing** — Large file imports/exports, batch jobs, queue systems
-- ⚡ **Query Optimization** — SQL tuning that improved response times by 60%
-- 🔐 **Secure Systems** — Encryption pipelines, LAU protocols, regulated environments
-- 📊 **Analytics** — Dashboards, executive reports, real-time metrics
-- 🏗️ **Full-Stack** — From database design to responsive UIs
-
-<br clear="right"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600">
+</div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## What I Work With
 
-<div align="center">
+**Data & Processing** — where I spend most of my time
 
-|                                                 Backend                                                  |                                                    Frontend                                                     |                                                      Data                                                       |                                                 DevOps                                                 |
-| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-|  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)   |
-|   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)    |     ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)      |        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)         |       ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)       |
-|   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)    |      ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)      |        ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)         |    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)    |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |       ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)       | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-</div>
+**Backend** — APIs, queues, batch jobs
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend** — when the data needs a face
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Infrastructure & Monitoring** — keeping things running
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Architecture patterns I've used in production:** `DDD` `Hexagonal` `Microservices` `Event-Driven`
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Experience
 
 <details open>
-<summary><b>🚀 TotalDev</b> — Full-Stack Developer <sup>(Jul 2025 - Present)</sup></summary>
+<summary><b>TotalDev</b> — Full-Stack Developer <sup>(Jul 2025 - Present)</sup></summary>
 
 <br/>
 
@@ -102,7 +114,7 @@ me = SoftwareEngineer()
 </details>
 
 <details>
-<summary><b>🅿️ PARQ</b> — Full-Stack Developer <sup>(Nov 2024 - Jul 2025)</sup></summary>
+<summary><b>PARQ</b> — Full-Stack Developer <sup>(Nov 2024 - Jul 2025)</sup></summary>
 
 <br/>
 
@@ -125,7 +137,7 @@ me = SoftwareEngineer()
 </details>
 
 <details>
-<summary><b>💻 Serempre</b> — Backend Developer <sup>(Jul 2023 - Nov 2024)</sup></summary>
+<summary><b>Serempre</b> — Backend Developer <sup>(Jul 2023 - Nov 2024)</sup></summary>
 
 <br/>
 
@@ -145,7 +157,7 @@ me = SoftwareEngineer()
 
 <div align="center">
 
-## 💬 Let's Build Something Great
+## Let's Connect
 
 <br/>
 
@@ -155,9 +167,9 @@ me = SoftwareEngineer()
 
 <br/>
 
-**Open to opportunities involving high-volume data systems, performance optimization, and scalable architectures.**
+**Looking to go deeper into data engineering — pipelines, ETL, and systems that move information at scale.**
 
-**Currently based in Colombia 🇨🇴 • Available for remote work worldwide 🌎**
+**Based in Colombia • Available for remote work worldwide**
 
 <br/>
 
@@ -173,7 +185,7 @@ me = SoftwareEngineer()
 
 <br/>
 
-**Thanks for visiting!** ⭐
+**Thanks for stopping by**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
