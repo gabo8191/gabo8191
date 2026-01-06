@@ -2,134 +2,204 @@
 
 # Gabriel Castillo
 
-`Fullstack Developer` • `Data-focused Solutions` • `Systems Engineer`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer;Data-Intensive+Applications;Systems+Engineer;3%2B+Years+Building+Scalable+Systems" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabo8191)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gabo8191.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gabo8191.gabo8191)
+<img src="https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-Fullstack developer with 3 years building complete systems for banking, insurance, and retail. I work on applications that process large volumes of data and need to be fast and reliable.
+Fullstack developer with **3+ years** building complete systems for **banking, insurance, and retail**. I work on applications that process large volumes of data and need to be fast and reliable.
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 **What I've built:**
-- Interbank messaging system handling SWIFT/ISO 20022 transactions with encrypted pipelines
-- Inventory management platform managing 10,000+ SKUs with automated import/export
-- QR authentication systems for premium brands like Chivas Regal
-- Microservice architectures serving analytics dashboards and reports
-- Complete CMS solutions using Filament for content administration
 
-I handle both backend (APIs, databases, scheduled jobs, ETL processes) and frontend (React, Angular, Vue). I work with sensitive data in regulated environments where accuracy and availability matter.
+- 🏦 Interbank messaging system handling **SWIFT/ISO 20022** transactions with encrypted pipelines
+- 📦 Inventory management platform managing **10,000+ SKUs** with automated import/export
+- 🔐 QR authentication systems for premium brands like **Chivas Regal**
+- 📊 Microservice architectures serving analytics dashboards and reports
+- 🖥️ Complete CMS solutions using **Filament** for content administration
 
-**Current focus:** Building data-intensive applications, optimizing databases for high-volume queries, creating pipelines for batch processing, and developing systems that transform raw data into actionable insights through dashboards and reports.
+<br clear="right"/>
+
+**Current focus:** Building data-intensive applications, optimizing databases for high-volume queries, creating pipelines for batch processing, and developing systems that transform raw data into actionable insights.
 
 ---
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 ### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Data & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<div align="center">
 
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### Data & DevOps
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-**TotalDev** (July 2025 - Present)
-- Built inventory system managing 10K+ SKUs with automated CSV processing
-- Developed interbank communication system for SWIFT/ISO 20022 messages with LAU encryption
-- Created QR code generation/validation system for product authentication (Chivas Regal)
-- Built complete CMS with Filament for content administration
-- Tech: Laravel, Filament, React, Java, MySQL
+<details>
+<summary><b>🚀 TotalDev</b> — Fullstack Developer (July 2025 - Present)</summary>
+<br>
 
-**PARQ** (Nov 2024 - July 2025)
-- Developed NestJS microservices, optimized queries reducing load time 40%
+- Built inventory system managing **10K+ SKUs** with automated CSV processing
+- Developed interbank communication system for **SWIFT/ISO 20022** messages with LAU encryption
+- Created QR code generation/validation system for product authentication (**Chivas Regal**)
+- Built complete CMS with **Filament** for content administration
+
+**Tech:** `Laravel` `Filament` `React` `Java` `MySQL`
+
+</details>
+
+<details>
+<summary><b>🅿️ PARQ</b> — Software Developer (Nov 2024 - July 2025)</summary>
+<br>
+
+- Developed NestJS microservices, optimized queries reducing load time **40%**
 - Built React landing page and Angular modules with timezone management
 - Fixed notification timing for WhatsApp, email, and reports
-- Tech: NestJS, React, Angular, TypeORM, PostgreSQL
 
-**Serempre** (July 2023 - Nov 2024)
-- Optimized database queries and indexing, improved response time 60%
+**Tech:** `NestJS` `React` `Angular` `TypeORM` `PostgreSQL`
+
+</details>
+
+<details>
+<summary><b>💻 Serempre</b> — Backend Developer (July 2023 - Nov 2024)</summary>
+<br>
+
+- Optimized database queries and indexing, improved response time **60%**
 - Built automated import system with cron jobs for daily file processing
 - Developed Blade templates and Vue.js components for dashboards
-- Tech: Laravel, Vue.js, MySQL, Redis, Docker
+
+**Tech:** `Laravel` `Vue.js` `MySQL` `Redis` `Docker`
+
+</details>
 
 ---
 
-## 📊 What I'm Working On
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabo8191&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo8191&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=gabo8191&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabo8191&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```javascript
-const currentFocus = {
+const gabriel = {
   building: [
-    "Data-intensive fullstack applications",
-    "ETL pipelines for batch processing",
-    "Optimized APIs for analytics and reporting",
-    "Systems handling large file imports/exports",
-    "Dashboards for data visualization"
+    'Data-intensive fullstack applications',
+    'ETL pipelines for batch processing',
+    'Optimized APIs for analytics and reporting',
+    'Systems handling large file imports/exports',
   ],
-  
   exploring: [
-    "Advanced SQL optimization techniques",
-    "Large-scale data processing patterns",
-    "Real-time analytics implementations",
-    "Data pipeline orchestration"
+    'Advanced SQL optimization',
+    'Large-scale data processing',
+    'Real-time analytics',
   ],
-  
-  interested: [
-    "Distributed systems",
-    "Performance optimization at scale",
-    "Business intelligence solutions"
-  ]
+  goals2025: [
+    'Contribute to open source',
+    'Deep dive into distributed systems',
+    'Build a SaaS product',
+  ],
 };
 ```
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabo8191&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gabo8191&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
-## 📫 Get in Touch
+<div align="center">
+
+### 📫 Let's Connect
 
 **Fullstack Developer specializing in data-intensive applications**
 
 Building scalable systems that process large volumes of information for banking, retail, and insurance sectors.
 
-[![Email](https://img.shields.io/badge/Email-gabo8191@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=0e75b6&style=flat" alt="gabo8191" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 
 </div>
