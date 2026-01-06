@@ -129,29 +129,6 @@ Fullstack developer with **3+ years** building complete systems for **banking, i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabo8191&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo8191&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=gabo8191&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabo8191&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```javascript
@@ -167,7 +144,7 @@ const gabriel = {
     'Large-scale data processing',
     'Real-time analytics',
   ],
-  goals2025: [
+  goals2026: [
     'Contribute to open source',
     'Deep dive into distributed systems',
     'Build a SaaS product',
@@ -177,13 +154,41 @@ const gabriel = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabo8191/gabo8191/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabo8191/gabo8191/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gabo8191/gabo8191/output/github-snake.svg" />
+</picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gabo8191&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+---
 
-</div>
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░  45.2%
+PHP          8 hrs 15 mins   ██████░░░░░░░░░░░░░  29.8%
+JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░  13.5%
+Python       2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   7.8%
+SQL          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░   3.7%
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+## 📈 Metrics
+
+| 🔥 Highlights           | 📊 Stats                   |
+| ----------------------- | -------------------------- |
+| **Years of Experience** | 3+                         |
+| **Projects Delivered**  | 15+                        |
+| **Query Optimization**  | Up to 60% faster           |
+| **SKUs Managed**        | 10,000+                    |
+| **Industries**          | Banking, Insurance, Retail |
 
 ---
 
@@ -200,6 +205,6 @@ Building scalable systems that process large volumes of information for banking,
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+<sub>⭐ From [gabo8191](https://github.com/gabo8191) with 💜</sub>
 
 </div>
