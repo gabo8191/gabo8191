@@ -1,210 +1,180 @@
 <div align="center">
 
-# Gabriel Castillo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Data-Intensive%20Systems&descAlignY=52&descSize=18"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer;Data-Intensive+Applications;Systems+Engineer;3%2B+Years+Building+Scalable+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+systems+that+process;large+volumes+of+data+%F0%9F%9A%80;Banking+%E2%80%A2+Insurance+%E2%80%A2+Retail" alt="Typing SVG" /></a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabo8191)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gabo8191.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-Fullstack developer with **3+ years** building complete systems for **banking, insurance, and retail**. I work on applications that process large volumes of data and need to be fast and reliable.
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Gabriel Castillo"
+        self.role = "Full-Stack Developer"
+        self.experience = "3+ years"
+        self.location = "Colombia 🇨🇴"
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+    def sectors(self):
+        return ["Banking", "Insurance", "Retail"]
 
-**What I've built:**
+    def daily_tools(self):
+        return {
+            "backend": ["Laravel", "NestJS", "Spring Boot"],
+            "frontend": ["React", "Angular", "Vue.js"],
+            "databases": ["PostgreSQL", "MySQL", "Redis"],
+            "languages": ["TypeScript", "PHP", "Python", "Java"]
+        }
 
-- 🏦 Interbank messaging system handling **SWIFT/ISO 20022** transactions with encrypted pipelines
-- 📦 Inventory management platform managing **10,000+ SKUs** with automated import/export
-- 🔐 QR authentication systems for premium brands like **Chivas Regal**
-- 📊 Microservice architectures serving analytics dashboards and reports
-- 🖥️ Complete CMS solutions using **Filament** for content administration
+    def what_i_build(self):
+        return [
+            "REST APIs handling 10K+ products",
+            "ETL pipelines for batch processing",
+            "Interbank messaging systems (SWIFT/ISO 20022)",
+            "Dashboards for analytics and reporting",
+            "QR authentication systems"
+        ]
+
+me = SoftwareEngineer()
+```
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### What I do best
+
+- 🔄 **Data Processing** — Large file imports/exports, batch jobs, queue systems
+- ⚡ **Query Optimization** — SQL tuning that improved response times by 60%
+- 🔐 **Secure Systems** — Encryption pipelines, LAU protocols, regulated environments
+- 📊 **Analytics** — Dashboards, executive reports, real-time metrics
+- 🏗️ **Full-Stack** — From database design to responsive UIs
 
 <br clear="right"/>
 
-**Current focus:** Building data-intensive applications, optimizing databases for high-volume queries, creating pipelines for batch processing, and developing systems that transform raw data into actionable insights.
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+
+|                                                 Backend                                                  |                                                    Frontend                                                     |                                                      Data                                                       |                                                 DevOps                                                 |
+| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+|  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)   |
+|   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)    |     ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)      |        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)         |       ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)       |
+|   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)    |      ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)      |        ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)         |    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)    |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |       ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)       | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Experience
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<details open>
+<summary><b>🚀 TotalDev</b> — Full-Stack Developer <sup>(Jul 2025 - Present)</sup></summary>
 
-### Backend
+<br/>
 
-<div align="center">
+> Building inventory systems, interbank platforms, and QR authentication for premium brands
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Backend:**
 
-</div>
-</td>
-<td valign="top" width="33%">
+- REST APIs managing **10,000+ SKUs** with automated CSV import/export
+- Interbank communication system processing **SWIFT/ISO 20022** messages with LAU encryption (Java)
+- QR code generation with pseudorandom processes for **Chivas Regal** authentication
 
-### Frontend
+**Frontend:**
 
-<div align="center">
+- React dashboards with real-time metrics and advanced filtering
+- Complete CMS with **Filament** for content administration
+- QR scanning interfaces for product authenticity verification
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-</td>
-<td valign="top" width="33%">
-
-### Data & DevOps
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>🚀 TotalDev</b> — Fullstack Developer (July 2025 - Present)</summary>
-<br>
-
-- Built inventory system managing **10K+ SKUs** with automated CSV processing
-- Developed interbank communication system for **SWIFT/ISO 20022** messages with LAU encryption
-- Created QR code generation/validation system for product authentication (**Chivas Regal**)
-- Built complete CMS with **Filament** for content administration
-
-**Tech:** `Laravel` `Filament` `React` `Java` `MySQL`
+`Laravel` `React` `Java` `Filament` `MySQL`
 
 </details>
 
 <details>
-<summary><b>🅿️ PARQ</b> — Software Developer (Nov 2024 - July 2025)</summary>
-<br>
+<summary><b>🅿️ PARQ</b> — Full-Stack Developer <sup>(Nov 2024 - Jul 2025)</sup></summary>
 
-- Developed NestJS microservices, optimized queries reducing load time **40%**
-- Built React landing page and Angular modules with timezone management
-- Fixed notification timing for WhatsApp, email, and reports
+<br/>
 
-**Tech:** `NestJS` `React` `Angular` `TypeORM` `PostgreSQL`
+> Microservices and frontend modules for a parking management platform
+
+**Backend:**
+
+- NestJS microservices with TypeORM, **40% faster query times**
+- API documentation with Swagger
+- Security improvements and critical bug fixes
+
+**Frontend:**
+
+- Company landing page in React
+- Angular modules with global timezone management
+- Notification timing fixes for WhatsApp, email, and reports
+
+`NestJS` `React` `Angular` `TypeORM` `PostgreSQL`
 
 </details>
 
 <details>
-<summary><b>💻 Serempre</b> — Backend Developer (July 2023 - Nov 2024)</summary>
-<br>
+<summary><b>💻 Serempre</b> — Backend Developer <sup>(Jul 2023 - Nov 2024)</sup></summary>
 
-- Optimized database queries and indexing, improved response time **60%**
-- Built automated import system with cron jobs for daily file processing
-- Developed Blade templates and Vue.js components for dashboards
+<br/>
 
-**Tech:** `Laravel` `Vue.js` `MySQL` `Redis` `Docker`
+> Backend optimization for large-scale Laravel applications
+
+- SQL optimizations and indexes → **60% faster response times**
+- Automated cron jobs for daily file processing
+- Authentication via Laravel Passport
+- External API integrations (Cloudinary, Moodle LTI)
+- Legacy code modernization with design patterns + Docker/DDEV
+
+`Laravel` `Vue.js` `MySQL` `Redis` `Docker`
 
 </details>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-```javascript
-const gabriel = {
-  building: [
-    'Data-intensive fullstack applications',
-    'ETL pipelines for batch processing',
-    'Optimized APIs for analytics and reporting',
-    'Systems handling large file imports/exports',
-  ],
-  exploring: [
-    'Advanced SQL optimization',
-    'Large-scale data processing',
-    'Real-time analytics',
-  ],
-  goals2026: [
-    'Contribute to open source',
-    'Deep dive into distributed systems',
-    'Build a SaaS product',
-  ],
-};
+## 💬 Let's Build Something Great
+
+<br/>
+
+```
+ "The best code is the one that solves real problems efficiently."
 ```
 
----
+<br/>
 
-## 🐍 Contribution Snake
+**Open to opportunities involving high-volume data systems, performance optimization, and scalable architectures.**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabo8191/gabo8191/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabo8191/gabo8191/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gabo8191/gabo8191/output/github-snake.svg" />
-</picture>
+**Currently based in Colombia 🇨🇴 • Available for remote work worldwide 🌎**
 
----
+<br/>
 
-## 📊 Weekly Development Breakdown
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
+[![Email](https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
 
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░  45.2%
-PHP          8 hrs 15 mins   ██████░░░░░░░░░░░░░  29.8%
-JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░  13.5%
-Python       2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   7.8%
-SQL          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░   3.7%
-```
-
-<!--END_SECTION:waka-->
+<br/>
 
 ---
 
-## 📈 Metrics
+![Profile Views](https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=A960FF&style=for-the-badge)
 
-| 🔥 Highlights           | 📊 Stats                   |
-| ----------------------- | -------------------------- |
-| **Years of Experience** | 3+                         |
-| **Projects Delivered**  | 15+                        |
-| **Query Optimization**  | Up to 60% faster           |
-| **SKUs Managed**        | 10,000+                    |
-| **Industries**          | Banking, Insurance, Retail |
+<br/>
 
----
+**Thanks for visiting!** ⭐
 
-<div align="center">
-
-### 📫 Let's Connect
-
-**Fullstack Developer specializing in data-intensive applications**
-
-Building scalable systems that process large volumes of information for banking, retail, and insurance sectors.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
-
----
-
-<sub>⭐ From [gabo8191](https://github.com/gabo8191) with 💜</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
