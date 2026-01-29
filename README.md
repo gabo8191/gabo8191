@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Backend%20%26%20Data%20Systems&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Backend%20and%20Data%20Systems&descAlignY=52&descSize=18"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+backend+%26+data+systems;REST+APIs+%7C+Batch+Processing+%7C+Pipelines;Banking+%E2%80%A2+Corporate+Benefits+%E2%80%A2+Parking" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+backend+and+data+systems;REST+APIs+%7C+Batch+Processing+%7C+Pipelines;Banking+%E2%80%A2+Corporate+Benefits+%E2%80%A2+Parking" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -100,7 +100,7 @@ My focus is on backend architecture, data processing systems, and cloud infrastr
 
 > Interbank messaging, inventory systems, and QR authentication platforms
 
-- Developed interbank messaging system processing **MT format files** with encryption validation, data standardization, and message routing per **SWIFT/ISO 20022** specs
+- Developed interbank messaging system processing **MT format files** with encryption validation, data standardization, and **message** routing per **SWIFT/ISO 20022** specs
 - Built backend systems for inventory management with **REST APIs**, automated CSV import/export, role-based access by geographic regions, and reporting modules with SQL views
 - Created QR code generation and validation systems for event management and product authentication with pseudorandom code generation and real-time scanning interfaces
 - Implemented CMS using **Laravel + Filament** for autonomous content management
