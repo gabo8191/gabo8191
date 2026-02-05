@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Backend%20and%20Data%20Systems&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descSize=18"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+backend+and+data+systems;REST+APIs+%7C+Batch+Processing+%7C+Pipelines;Banking+%E2%80%A2+Corporate+Benefits+%E2%80%A2+Parking" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+%7C+APIs+%7C+DevOps;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+AWS" alt="Typing SVG" /></a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
+
+<br/>
+
+
 
 </div>
 
@@ -19,75 +23,39 @@
 ```python
 class Gabriel:
 
-    role = "Fullstack Developer"
-    focus = "Backend & Data Systems"
+    role = "Backend Developer"
     location = "Tunja, Colombia"
-
-    industries = ["banking", "corporate_benefits", "parking_management"]
 
     stack = {
         "languages": ["Python", "TypeScript", "PHP", "SQL"],
-        "backend": ["Laravel", "NestJS", "Node.js", "REST APIs"],
+        "backend": ["Laravel", "NestJS", "Node.js"],
         "databases": ["PostgreSQL", "MySQL", "Redis"],
-        "data": ["Pandas", "Scikit-learn", "Batch Processing"],
-        "tools": ["Docker", "Git", "GitHub Actions", "SonarQube"],
+        "devops": ["Docker", "GitHub Actions", "Linux", "Nginx"],
         "cloud": ["AWS EC2", "AWS S3", "AWS RDS"],
     }
-
-    interests = ["backend_architecture", "data_processing", "cloud_infrastructure"]
 ```
 
-Fullstack developer with 3+ years building backend systems for banking, corporate benefits platforms, and parking management. I've worked on interbank messaging (SWIFT/ISO 20022), electronic invoicing integrations, and batch processing pipelines.
-
-My focus is on backend architecture, data processing systems, and cloud infrastructure.
+Backend developer with 3+ years building APIs, microservices, and batch processing systems. Experience with containerized deployments, CI/CD pipelines, and cloud infrastructure.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600">
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="550"/>
 </div>
 
 ---
 
-## What I Work With
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+|                                                      Backend                                                      |                                                     Databases                                                     |                                                        DevOps                                                         |                                               Cloud                                                |
+| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|       ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)       | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |         ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)         | ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)         | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |  ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)   |
+|           ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)            |        ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)         |          ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)           | ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
+|     ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)      |                                                                                                                   |          ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)           |                                                                                                    |
+|       ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)       |                                                                                                                   |             ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)              |                                                                                                    |
 
-**Backend** — APIs, batch jobs, microservices
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Databases & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-
-**Data & Processing**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Cloud (AWS)**
-
-![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+</div>
 
 ---
 
@@ -145,53 +113,43 @@ My focus is on backend architecture, data processing systems, and cloud infrastr
 
 ## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> Education
 
-**Systems and Computer Engineering** — _Expected 2026_
-Pedagogical and Technological University of Colombia (UPTC)
-`Databases` `Statistics` `Computational Intelligence` `Computer Security`
-
-**Information Systems Analysis and Development** — _2022_
-National Learning Service (SENA)
+<table>
+<tr>
+<td>🎓</td>
+<td><b>Systems and Computer Engineering</b> — Expected 2026<br/>Pedagogical and Technological University of Colombia (UPTC)</td>
+</tr>
+<tr>
+<td>📜</td>
+<td><b>Information Systems Analysis and Development</b> — 2022<br/>National Learning Service (SENA)</td>
+</tr>
+</table>
 
 ---
 
 ## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> Languages
 
-**Spanish:** Native
-**English:** B2 - Upper Intermediate
+|  Language  |          Level          |
+| :--------: | :---------------------: |
+| 🇪🇸 Spanish |         Native          |
+| 🇺🇸 English | B2 - Upper Intermediate |
 
 ---
 
 <div align="center">
 
-## Let's Connect
+## 📬 Let's Connect
+
+**Based in Colombia • Open to remote opportunities**
 
 <br/>
 
-```
- "The best code is the one that solves real problems efficiently."
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
 
 <br/>
-
-**Interested in backend architecture, data processing systems, and cloud infrastructure.**
-
-**Based in Tunja, Colombia • Available for remote work worldwide**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
-[![Email](https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
-
-<br/>
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=A960FF&style=for-the-badge)
-
-<br/>
-
-**Thanks for stopping by**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
