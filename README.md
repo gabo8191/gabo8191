@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descSize=18"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+%7C+APIs+%7C+DevOps;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+AWS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Backend+%E2%80%A2+APIs+%E2%80%A2+Open+Source;Linux+%E2%80%A2+Data+Engineering+%E2%80%A2+Data+Analysis" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,17 +25,19 @@ class Gabriel:
 
     role = "Backend Developer"
     location = "Tunja, Colombia"
+    focus = ["Backend", "Open Source", "Linux", "Data Engineering & Analysis"]
 
     stack = {
         "languages": ["Python", "TypeScript", "PHP", "SQL"],
         "backend": ["Laravel", "NestJS", "Node.js"],
         "databases": ["PostgreSQL", "MySQL", "Redis"],
+        "data": ["Pandas", "NumPy", "Advanced SQL", "Power BI"],
         "devops": ["Docker", "GitHub Actions", "Linux", "Nginx"],
         "cloud": ["AWS EC2", "AWS S3", "AWS RDS"],
     }
 ```
 
-Backend developer with 3+ years building APIs, microservices, and batch processing systems. Experience with containerized deployments, CI/CD pipelines, and cloud infrastructure.
+Backend developer with 3+ years building APIs, microservices, and batch processing systems. Increasingly focused on **open source**, **Linux** tooling, and **data engineering & analysis** — turning raw data into reliable pipelines and clear insights.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="550"/>
@@ -47,22 +49,51 @@ Backend developer with 3+ years building APIs, microservices, and batch processi
 
 <div align="center">
 
-|                                                      Backend                                                      |                                                     Databases                                                     |                                                        DevOps                                                         |                                               Cloud                                                |
-| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-|       ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)       | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |         ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)         | ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)         | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |  ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)   |
-|           ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)            |        ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)         |          ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)           | ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
-|     ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)      |                                                                                                                   |          ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)           |                                                                                                    |
-|       ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)       |                                                                                                                   |             ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)              |                                                                                                    |
+|                                                      Backend                                                      |                                                  Data & Analytics                                                  |                                                     Databases                                                     |                                                        DevOps                                                         |                                               Cloud                                                |
+| :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|       ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)       |       ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |         ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)         | ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |        ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)          |        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)         | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |  ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)   |
+|           ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)            |    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)        |        ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)         |          ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)           | ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
+|     ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)      |     ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)      |                                                                                                                   |          ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)           |                                                                                                    |
+|       ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)       |          ![SQL](https://img.shields.io/badge/Advanced_SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)         |                                                                                                                   |             ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)              |                                                                                                    |
 
 </div>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Open Source
+
+> Projects I build and maintain in the open. Contributions, ideas and stars are welcome ⭐
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [TomoReader](https://github.com/gabo8191/TomoReader)
+
+Desktop comic & manga reader (**CBR/CBZ**) built with **Rust + Tauri 2** and React. Eye-friendly reading themes, reading-progress tracking and a SQLite-backed library.
+
+`Rust` `Tauri` `React` `TypeScript` `SQLite`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/TomoReader)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 More coming soon
+
+Currently exploring open source around **Linux tooling** and **data engineering / analysis**. Stay tuned — new repos will land here.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Experience
 
 <details open>
-<summary><b>TotalDev SAS</b> — Fullstack Developer <sup>(Jul 2025 - Present)</sup></summary>
+<summary><b>TotalDev SAS</b> — Fullstack Developer <sup>(Jul 2025 - May 2026)</sup></summary>
 
 <br/>
 
