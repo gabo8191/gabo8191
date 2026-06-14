@@ -97,7 +97,7 @@ Desktop comic & manga reader (**CBR/CBZ**) built with **Rust + Tauri 2** and Rea
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Experience
 
 <details open>
-<summary><b>TotalDev SAS</b> — Fullstack Developer <sup>(Jul 2025 - May 2026)</sup></summary>
+<summary><b>TotalDev SAS</b> — Fullstack Developer <sup>(Jul 2025 - March 2026)</sup></summary>
 
 <br/>
 
