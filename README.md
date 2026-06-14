@@ -80,9 +80,13 @@ Desktop comic & manga reader (**CBR/CBZ**) built with **Rust + Tauri 2** and Rea
 </td>
 <td width="50%" valign="top">
 
-### 🌱 More coming soon
+### 🗣️ [AutoTranslate-Anki](https://github.com/gabo8191/AutoTranslate-Anki)
 
-Currently exploring open source around **Linux tooling** and **data engineering / analysis**. Stay tuned — new repos will land here.
+**Anki** add-on that auto-fills note translations for a whole deck in one click — built in **Python**, no API key required. Configurable language pairs and field mapping.
+
+`Python` `Anki` `Add-on`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/AutoTranslate-Anki)
 
 </td>
 </tr>
