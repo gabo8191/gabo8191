@@ -92,13 +92,13 @@ Desktop comic & manga reader (**CBR/CBZ**) built with **Rust + Tauri 2** and Rea
 <tr>
 <td width="50%" valign="top">
 
-### 📄 [CV-Maker](https://github.com/gabo8191/CV-Maker)
+### 🎭 [Cadáver Exquisito](https://github.com/gabo8191/cadaver-exquisito)
 
-Free, open source résumé builder. Fill in friendly form fields, watch an elegant A4 preview update in real time, and export a crisp, vector PDF with a single click. Runs **client-side** — your data stays in your browser (localStorage) with JSON export/import for backups and device transfers.
+Serverless multiplayer web app for collective storytelling. A group builds a story in turns with **no backend**: the Host's browser runs the authoritative engine over **WebRTC** (PeerJS), and all state persists locally in **IndexedDB**. Nobody sees what others wrote until the final reveal.
 
-`TypeScript` `React` `PDF` `localStorage`
+`TypeScript` `React` `Vite` `WebRTC` `IndexedDB`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/CV-Maker)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/cadaver-exquisito)
 
 </td>
 <td width="50%" valign="top">
