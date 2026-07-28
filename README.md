@@ -89,16 +89,25 @@ Desktop comic & manga reader (**CBR/CBZ**) built with **Rust + Tauri 2** and Rea
 </td>
 
 </tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Live Projects
+
+> Private projects already deployed and available to use online 🚀
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 [Cadáver Exquisito](https://github.com/gabo8191/cadaver-exquisito)
+### 🎭 [Cadáver Exquisito](https://cadaver-exquisito-six.vercel.app/)
 
 Serverless multiplayer web app for collective storytelling. A group builds a story in turns with **no backend**: the Host's browser runs the authoritative engine over **WebRTC** (PeerJS), and all state persists locally in **IndexedDB**. Nobody sees what others wrote until the final reveal.
 
 `TypeScript` `React` `Vite` `WebRTC` `IndexedDB`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/cadaver-exquisito)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://cadaver-exquisito-six.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
