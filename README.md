@@ -6,6 +6,7 @@
 
 <br/>
 
+[![Vulcano](https://img.shields.io/badge/Co--founder_@_Vulcano-FF3B00?style=for-the-badge&logoColor=white)](https://vulcanoservices.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
@@ -22,6 +23,7 @@
 class Gabriel:
 
     role = "Backend Developer"
+    company = "Vulcano — Co-founder & Backend Engineering Lead"
     location = "Tunja, Colombia"
     focus = ["Backend", "Open Source", "Linux", "Data Engineering & Analysis"]
 
@@ -40,6 +42,35 @@ Backend developer with 3+ years building APIs, microservices, and batch processi
 <div align="center">
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="550"/>
 </div>
+
+---
+
+## <img src="https://vulcanoservices.dev/brand/logo-64.png" width="25"> Co-founder at Vulcano
+
+<table>
+<tr>
+<td width="150" align="center" valign="middle">
+
+<a href="https://vulcanoservices.dev"><img src="https://vulcanoservices.dev/brand/logo-256.png" width="110" alt="Vulcano logo"/></a>
+
+</td>
+<td valign="middle">
+
+### [Vulcano](https://vulcanoservices.dev) — Software, Data & Automation
+
+**Co-founder & Backend Engineering Lead.** Software engineering studio I co-founded with
+[Diana Pinzón](https://portfoliodiana.netlify.app) (Automation & Growth). We build **custom software**,
+**data engineering & BI** pipelines, **process automation (RPA)** and **systems integration**
+for companies across LATAM, Spain, the US and the UK — remote-first, bilingual (ES/EN).
+
+I own the technical side: architecture, REST APIs, databases, ETL, infrastructure and delivery.
+
+[![Website](https://img.shields.io/badge/vulcanoservices.dev-FF3B00?style=flat-square&logoColor=white)](https://vulcanoservices.dev)
+[![LinkedIn](https://img.shields.io/badge/Company_Page-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vulcanoia)
+
+</td>
+</tr>
+</table>
 
 ---
 
