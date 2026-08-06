@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Decorative footer wave">
+  <title>Footer</title>
+
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0a1a"/>
+      <stop offset="100%" stop-color="#1a1030"/>
+    </linearGradient>
+
+    <linearGradient id="fwave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="35%" stop-color="#a855f7"/>
+      <stop offset="70%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+
+    <style>
+      .fdrift  { animation: fdrift 16s ease-in-out infinite; }
+      .fdrift2 { animation: fdrift 20s ease-in-out infinite reverse; }
+
+      @keyframes fdrift {
+        0%, 100% { transform: translateX(0); }
+        50%      { transform: translateX(-36px); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .fdrift, .fdrift2 { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#fbg)"/>
+
+  <!-- Ola invertida respecto a la cabecera: cierra la página en espejo -->
+  <path class="fdrift2" fill="url(#fwave)" opacity="0.4"
+    d="M-100,-10 C120,34 260,-24 480,8 C700,40 840,-18 1060,10 C1180,26 1260,8 1300,14 L1300,-40 L-100,-40 Z"/>
+  <path class="fdrift" fill="url(#fwave)" opacity="0.8"
+    d="M-100,-10 C140,26 300,-30 520,2 C740,34 900,-22 1120,6 C1220,20 1270,4 1300,10 L1300,-40 L-100,-40 Z"/>
+</svg>

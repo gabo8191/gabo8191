@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Gabriel Castillo — Backend Developer and BI &amp; Data Analytics">
+  <title>Gabriel Castillo — Backend Developer · BI &amp; Data Analytics</title>
+
+  <defs>
+    <!-- Misma paleta que el degradado del portafolio -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0a1a"/>
+      <stop offset="55%" stop-color="#1a1030"/>
+      <stop offset="100%" stop-color="#0f0a1a"/>
+    </linearGradient>
+
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="35%" stop-color="#7c3aed"/>
+      <stop offset="70%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="120%" r="70%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      /* Las animaciones CSS dentro del SVG sí corren cuando GitHub lo sirve
+         como &lt;img&gt;; JavaScript no, por eso todo el movimiento va aquí. */
+      .drift  { animation: drift 14s ease-in-out infinite; }
+      .drift2 { animation: drift 18s ease-in-out infinite reverse; }
+      .twinkle { animation: twinkle 4s ease-in-out infinite; }
+
+      @keyframes drift {
+        0%, 100% { transform: translateX(0); }
+        50%      { transform: translateX(-40px); }
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.25; }
+        50%      { opacity: 0.9; }
+      }
+
+      /* Quien tenga reducción de movimiento activada ve la versión quieta. */
+      @media (prefers-reduced-motion: reduce) {
+        .drift, .drift2, .twinkle { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <ellipse cx="600" cy="200" rx="520" ry="150" fill="url(#glow)"/>
+
+  <!-- Estrellas -->
+  <g fill="#e9d5ff">
+    <circle class="twinkle" cx="140" cy="42" r="1.6" style="animation-delay:0s"/>
+    <circle class="twinkle" cx="330" cy="28" r="1.2" style="animation-delay:1.1s"/>
+    <circle class="twinkle" cx="905" cy="38" r="1.5" style="animation-delay:.6s"/>
+    <circle class="twinkle" cx="1075" cy="60" r="1.2" style="animation-delay:1.8s"/>
+    <circle class="twinkle" cx="1010" cy="24" r="1.7" style="animation-delay:2.4s"/>
+    <circle class="twinkle" cx="215" cy="72" r="1.1" style="animation-delay:3s"/>
+  </g>
+
+  <!-- Olas: dos capas desfasadas, más anchas que el lienzo para que el
+       desplazamiento nunca deje ver el borde -->
+  <g opacity="0.5">
+    <path class="drift2" fill="url(#wave)" opacity="0.45"
+      d="M-100,150 C120,112 260,180 480,150 C700,120 840,178 1060,148 C1180,132 1260,150 1300,142 L1300,200 L-100,200 Z"/>
+  </g>
+  <g>
+    <path class="drift" fill="url(#wave)" opacity="0.85"
+      d="M-100,168 C140,138 300,196 520,168 C740,140 900,192 1120,166 C1220,154 1270,166 1300,162 L1300,200 L-100,200 Z"/>
+  </g>
+
+  <!-- Texto. El ampersand va escapado: dejarlo crudo es justo lo que rompe
+       el XML y hace que el navegador no renderice nada. -->
+  <g text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+    <text x="600" y="88" font-size="46" font-weight="700" fill="#fafafa" letter-spacing="0.5">
+      Gabriel Castillo
+    </text>
+    <text x="600" y="122" font-size="18" fill="#d8b4fe" letter-spacing="2.4">
+      Backend Developer · BI &amp; Data Analytics
+    </text>
+  </g>
+</svg>

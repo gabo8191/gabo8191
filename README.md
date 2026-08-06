@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%C2%B7%20BI%20%26%20Data%20Analytics&descAlignY=52&descSize=18"/>
+<img src="https://raw.githubusercontent.com/gabo8191/gabo8191/main/assets/header.svg" alt="Gabriel Castillo — Backend Developer · BI &amp; Data Analytics" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Backend+%E2%80%A2+APIs+%E2%80%A2+Open+Source;BI+%E2%80%A2+Data+Analytics+%E2%80%A2+Tableau+%2B+Power+BI" alt="Typing SVG" /></a>
 
@@ -220,7 +220,7 @@ Serverless multiplayer web app for collective storytelling. A group builds a sto
 
 ---
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> Education
+## 🎓 Education
 
 <table>
 <tr>
@@ -260,6 +260,6 @@ Serverless multiplayer web app for collective storytelling. A group builds a sto
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=A960FF&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/gabo8191/gabo8191/main/assets/footer.svg" alt="" width="100%"/>
 
 </div>
