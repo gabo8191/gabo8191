@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gabriel%20Castillo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%C2%B7%20BI%20%26%20Data%20Analytics&descAlignY=52&descSize=18"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Backend+%E2%80%A2+APIs+%E2%80%A2+Open+Source;Linux+%E2%80%A2+Data+Engineering+%E2%80%A2+Data+Analysis" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Backend+%E2%80%A2+APIs+%E2%80%A2+Open+Source;BI+%E2%80%A2+Data+Analytics+%E2%80%A2+Tableau+%2B+Power+BI" alt="Typing SVG" /></a>
 
 <br/>
 
+[![Keyrus](https://img.shields.io/badge/BI_%26_Data_Analytics_@_Keyrus-1B1F3B?style=for-the-badge&logoColor=white)](https://www.keyrus.com/co/es)
 [![Vulcano](https://img.shields.io/badge/Co--founder_@_Vulcano-FF3B00?style=for-the-badge&logoColor=white)](https://vulcanoservices.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
@@ -22,22 +23,24 @@
 ```python
 class Gabriel:
 
-    role = "Backend Developer"
-    company = "Vulcano — Co-founder & Backend Engineering Lead"
+    role = "Backend Developer · BI & Data Analytics"
+    company = "Keyrus — BI & Data Analytics Intern (Visualization)"
+    side = "Vulcano — Co-founder & Backend Engineering Lead"
     location = "Tunja, Colombia"
-    focus = ["Backend", "Open Source", "Linux", "Data Engineering & Analysis"]
+    focus = ["Data Visualization", "Analytical SQL", "Backend", "Open Source"]
 
     stack = {
         "languages": ["Python", "TypeScript", "PHP", "SQL"],
+        "bi": ["Tableau", "Power BI", "Tableau Prep", "Power Query"],
+        "data": ["Pandas", "NumPy", "Advanced SQL", "Data Modelling"],
         "backend": ["Laravel", "NestJS", "Node.js"],
         "databases": ["PostgreSQL", "MySQL", "Redis"],
-        "data": ["Pandas", "NumPy", "Advanced SQL", "Power BI"],
         "devops": ["Docker", "GitHub Actions", "Linux", "Nginx"],
         "cloud": ["AWS EC2", "AWS S3", "AWS RDS"],
     }
 ```
 
-Backend developer with 3+ years building APIs, microservices, and batch processing systems. Increasingly focused on **open source**, **Linux** tooling, and **data engineering & analysis** — turning raw data into reliable pipelines and clear insights.
+Backend developer with 3+ years building APIs, microservices, and batch processing systems, now working in **BI & data analytics** consulting at Keyrus: SQL and Python for data preparation, **Tableau** and **Power BI** for the dashboards on top. The backend years are the edge — I've built the systems that produce the data before having to explain it.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="550"/>
@@ -152,6 +155,22 @@ Serverless multiplayer web app for collective storytelling. A group builds a sto
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Experience
 
 <details open>
+<summary><b>Keyrus Colombia</b> — BI &amp; Data Analytics Intern <sup>(Aug 2026 - Present)</sup></summary>
+
+<br/>
+
+> Dashboards, analytical SQL and data preparation inside the Visualization team
+
+- Design and maintain interactive dashboards and reports in **Tableau** and **Power BI**, applying visualization and **data storytelling** principles for clients in retail, telecom, healthcare, energy and the public sector
+- Write **SQL** with joins, aggregations and subqueries to extract, transform and validate data from enterprise sources such as **Snowflake**, **SAP HANA**, **BigQuery** and relational databases
+- Prepare and clean datasets with **Python (pandas, NumPy)**, **Power Query** and **Tableau Prep**
+- Document processes, **KPI definitions** and analytical methodologies for traceability and standardization
+
+`Tableau` `Power BI` `SQL` `Python` `Tableau Prep`
+
+</details>
+
+<details>
 <summary><b>TotalDev SAS</b> — Fullstack Developer <sup>(Jul 2025 - March 2026)</sup></summary>
 
 <br/>
