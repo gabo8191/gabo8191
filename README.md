@@ -145,6 +145,16 @@ Serverless multiplayer web app for collective storytelling. A group builds a sto
 
 </td>
 <td width="50%" valign="top">
+
+### 🧠 [NeuroSess](https://neurosess.netlify.app/)
+
+Recording and transcription app for neuropsychology sessions, where the audio never leaves the consulting room. A static **Next.js** frontend talks over loopback to a **local Python engine** — FastAPI + **faster-whisper**, shipped as a **PyInstaller** binary for Windows and Linux — that is the only piece running inference and writing to disk. Everything else lives in the browser's **IndexedDB**.
+
+`TypeScript` `Next.js` `Python` `FastAPI` `faster-whisper` `IndexedDB`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://neurosess.netlify.app/)
+[![Engine](https://img.shields.io/badge/Local_Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/neurosess-engine)
+
 </td>
 
 </tr>
