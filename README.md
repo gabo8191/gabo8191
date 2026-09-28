@@ -149,14 +149,14 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 <br/>
 
-> Interbank messaging, inventory and field operations. Freelance work overlapped with PARQ through Jul 2025.
+> Interbank messaging, inventory systems, events and content management. Freelance work overlapped with PARQ through Jul 2025.
 
-- Worked on MT reception and prepared **JSON mapping files for MT to MX and MX to MT** conversion in a Java/Apache Camel gateway using SWIFT/ISO 20022 formats.
-- Built inventory APIs, CSV imports with row-level error reporting, regional permissions and reports, and SQL views. Worked on material receipts, production and monthly reporting.
-- Built guest registration with invitation codes and **one-use QR validation**, plus Laravel/Filament content panels for nontechnical users.
-- Contributed to inspection and field operations systems with visits, samples, campaigns and surveys.
+- Added **MT103 and MT202 support** to a Java/Apache Camel SWIFT gateway: parsers, validators, JSON mapping files and automated **MT → pacs.008** and **pacs.009 → MT202** flows, with resilient batch processing.
+- Main developer of an **electoral inventory platform**: bulk imports with row-level errors, permissions by department and municipality, Excel reports and cached PDF/ZIP generation in a queued job.
+- Built a **QR-scanning PWA** for plant operators with its Laravel/Filament backend, guest registration with **one-use QR codes** and event-driven email, and cached Filament CMS panels.
+- Maintained reports for an insurance industry registry and modeled the discounts module of an inspection system.
 
-`Java` `Apache Camel` `Laravel` `Filament` `SQL` `React`
+`Java` `Apache Camel` `SWIFT` `Laravel` `Filament` `React` `PWA`
 
 </details>
 
@@ -167,11 +167,11 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 > Parking services, electronic invoicing and production data diagnosis
 
-- Maintained **NestJS services sharing PostgreSQL**, investigated production data inconsistencies, reviewed code and refactored legacy paths.
-- Implemented electronic invoicing connectors for **SATCOM, Siigo and Alegra**, with transaction tracing and provider error handling.
-- Worked on queue-based bulk loads, timezone-aware scheduled jobs, **Swagger/OpenAPI** and Docker/Portainer deployments.
+- Extended the **SATCOM, Siigo and Alegra** electronic invoicing connectors of a Laravel middleware: queued resend of failed invoices, provider company registration and per-request tracing.
+- Worked on **NestJS services sharing PostgreSQL**: country-specific rates, queued bulk membership creation and a platform-wide timezone standard; traced production data inconsistencies into the code.
+- Rebuilt the corporate site in **Next.js** with SSR, i18n and SEO; documented APIs with Swagger/OpenAPI.
 
-`NestJS` `TypeORM` `PostgreSQL` `Docker` `Swagger`
+`NestJS` `TypeORM` `PostgreSQL` `Laravel` `Next.js` `Swagger`
 
 </details>
 
@@ -184,7 +184,7 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 - Joined the Membeers backend team as a **SENA intern** and continued as a backend developer after Jul 2023.
 - Built **Laravel APIs** for web and mobile applications and handled **L2/L3 incidents** with SQL, code inspection, Sentry and incident war rooms.
-- Worked on SQL reports and procedures, queued jobs, scheduled processes and Docker/DDEV environments. Integrated Cloudinary and Moodle LTI.
+- Built queued payment uploads with validation, duplicate cleanup, Excel exports and PL/SQL reports; worked with Docker/DDEV and integrated Cloudinary and Moodle LTI.
 
 `Laravel` `MySQL` `Docker` `Redis` `REST APIs`
 
