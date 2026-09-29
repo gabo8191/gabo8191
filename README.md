@@ -92,9 +92,9 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 <br/>
 
-- Designed and built a **Django** application that analyzes PBIX files, scores each dashboard's complexity and estimates Power BI to Tableau migration hours; the team uses its estimates to plan migrations.
-- Built the REST API with **DRF**, asynchronous analysis with Celery and Redis and per-dashboard Excel reports, on PostgreSQL and a hexagonal architecture with 81% test coverage.
-- Prepared and validated data with **SQL and Python** for dashboard analysis and migration.
+- Designed and built an internal **Django** application that analyzes files and estimates effort for the team.
+- Built its REST API with **DRF**, background processing with Celery and Redis and PostgreSQL persistence, with automated tests in GitHub Actions.
+- Prepared and validated data with **SQL and Python** for dashboard analysis.
 
 `Python` `Django` `DRF` `Celery` `Redis` `PostgreSQL` `SQL`
 
