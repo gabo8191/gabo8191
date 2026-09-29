@@ -105,7 +105,7 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 <br/>
 
-- Added SWIFT MT support to an interbank gateway in **Java/Apache Camel**: MT103 and MT202 validation and automated ISO 20022 conversion (MT to pacs.008 and pacs.009 to MT202).
+- Added SWIFT MT support to an interbank gateway in **Java/Apache Camel**: MT103 and MT202 validation and automated ISO 20022 conversion.
 - Developed the core modules of an electoral inventory platform in **Laravel and React**: bulk imports with row-level validation, regional permissions, Excel reports and queued PDF generation.
 - Built a QR-scanning **PWA** for the operators of an industrial plant and its Laravel/Filament backend, with approvals, PDF delivery notes and monthly inventory reports.
 
@@ -118,7 +118,7 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 <br/>
 
-- Extended the **SATCOM, Siigo and Alegra** electronic invoicing connectors in a Laravel middleware: queued resend of failed invoices, company registration with providers, and per-request tracing.
+- Extended the **SATCOM, Siigo and Alegra** electronic invoicing connectors in a Laravel middleware with queued resend of failed invoices and per-request tracing.
 - Maintained the **NestJS and PostgreSQL** services of a parking platform in Colombia, Mexico and the UK: country-specific rates, queued bulk membership creation and consistent timezones in reports.
 - Built the corporate **Next.js** site with SSR, i18n and SEO and documented the APIs with OpenAPI.
 
