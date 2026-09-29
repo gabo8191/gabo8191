@@ -19,7 +19,7 @@ import subprocess
 import tempfile
 from pathlib import Path
 
-from build_assets import FONT_CACHE, INK, MARQUEE_ITEMS, PAPER, PINK, YELLOW
+from build_assets import FONT_CACHE, INK, PAPER, PINK, YELLOW
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "assets" / "linkedin-banner.png"
@@ -27,9 +27,21 @@ WIDTH, HEIGHT = 1584, 396
 
 # (title, caption, fill, text color, x, y, rotation in degrees)
 STICKERS = [
-    ("MT103 → pacs.008", "SWIFT / ISO 20022", INK, PAPER, 1090, 74, -4),
-    ("Siigo / Alegra / SATCOM", "e-invoicing connectors", PINK, INK, 1130, 164, 3),
-    ("L2/L3 incidents", "SQL / Sentry / root cause", PAPER, INK, 1078, 256, -2),
+    ("Systems that talk", "banks, invoicing, CRMs", INK, PAPER, 1090, 76, -4),
+    ("Bugs traced to the root", "SQL → logs → code", PINK, INK, 1124, 166, 3),
+    ("Busywork → internal tool", "Django, Laravel, React", PAPER, INK, 1080, 256, -2),
+]
+
+# A static banner cannot scroll, so the strip only carries what fits whole
+STRIP_ITEMS = [
+    "BACKEND",
+    "INTEGRATIONS",
+    "SQL",
+    "PRODUCTION SUPPORT",
+    "INTERNAL TOOLS",
+    "PYTHON / DJANGO",
+    "NESTJS",
+    "LARAVEL",
 ]
 
 
@@ -45,7 +57,7 @@ def sticker_html(
 
 
 def page() -> str:
-    marquee = "".join(f"<span>{item}</span><i>◆</i>" for item in MARQUEE_ITEMS * 2)
+    marquee = "<i>◆</i>".join(f"<span>{item}</span>" for item in STRIP_ITEMS)
     stickers = "".join(sticker_html(*sticker) for sticker in STICKERS)
     fonts = FONT_CACHE.resolve()
     return f"""<!doctype html>
@@ -57,8 +69,8 @@ def page() -> str:
 body {{ width: {WIDTH}px; height: {HEIGHT}px; overflow: hidden; background: {YELLOW};
         font-family: Mono, monospace; position: relative; }}
 .strip {{ position: absolute; inset: 0 0 auto 0; height: 52px; background: {INK};
-          color: {PAPER}; display: flex; align-items: center; gap: 22px; white-space: nowrap;
-          font-weight: 600; font-size: 19px; letter-spacing: 0.06em; padding-left: 18px; }}
+          color: {PAPER}; display: flex; align-items: center; justify-content: space-between; white-space: nowrap;
+          font-weight: 600; font-size: 19px; letter-spacing: 0.06em; padding: 0 28px; }}
 .strip i {{ color: {YELLOW}; font-style: normal; font-size: 14px; }}
 /* Dotted desk behind the profile photo: decoration only, nothing to read */
 .desk {{ position: absolute; left: 0; top: 52px; width: 430px; bottom: 0;

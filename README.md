@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Gabriel Castillo — Backend and Integration Engineer. Stickers: MT103 to pacs.008 (SWIFT, ISO 20022), Siigo · Alegra · SATCOM e-invoicing connectors, L2/L3 incidents, Django + Celery." width="100%"/>
+<img src="assets/header.svg" alt="Gabriel Castillo — Backend and Integration Engineer. Stickers: systems that talk (banks, invoicing, CRMs), bugs traced to the root, busywork turned into internal tools, bank messages translated from SWIFT to ISO 20022." width="100%"/>
 
 <br/>
 
@@ -92,10 +92,8 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 <br/>
 
-> Data consulting; Power BI to Tableau dashboard migration
-
-- Designed and built an internal **Django** application that reads PBIX files, scores dashboard complexity with AHP and estimates Tableau migration hours with PERT. The team uses its estimates; formal deployment is pending.
-- Built a **DRF API**, Celery and Redis background analysis, PostgreSQL persistence and an eleven-sheet Excel workbook per dashboard on a hexagonal architecture.
+- Designed and built a **Django** application that analyzes PBIX files, scores each dashboard's complexity and estimates Power BI to Tableau migration hours; the team uses its estimates to plan migrations.
+- Built the REST API with **DRF**, asynchronous analysis with Celery and Redis and per-dashboard Excel reports, on PostgreSQL and a hexagonal architecture with 81% test coverage.
 - Prepared and validated data with **SQL and Python** for dashboard analysis and migration.
 
 `Python` `Django` `DRF` `Celery` `Redis` `PostgreSQL` `SQL`
@@ -107,11 +105,9 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 <br/>
 
-> Custom software; overlapped with PARQ until Jul. 2025
-
-- Added MT message support to a **Java/Apache Camel** gateway: MT103 and MT202 parsers and validators, JSON mapping files, and automated MT to pacs.008 and pacs.009 to MT202 flows.
-- Built most of an electoral inventory platform in **Laravel and React**: bulk imports with row-level errors, department and municipality permissions, Excel reports, and queued, cached PDF and ZIP generation.
-- Built a QR-scanning **PWA** for plant operators with its Filament backend, and guest registration with one-use QR codes and event-driven email.
+- Added SWIFT MT support to an interbank gateway in **Java/Apache Camel**: MT103 and MT202 validation and automated ISO 20022 conversion (MT to pacs.008 and pacs.009 to MT202).
+- Developed the core modules of an electoral inventory platform in **Laravel and React**: bulk imports with row-level validation, regional permissions, Excel reports and queued PDF generation.
+- Built a QR-scanning **PWA** for the operators of an industrial plant and its Laravel/Filament backend, with approvals, PDF delivery notes and monthly inventory reports.
 
 `Java` `Apache Camel` `SWIFT` `ISO 20022` `Laravel` `Filament` `React` `PWA`
 
@@ -122,11 +118,9 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 <br/>
 
-> Parking platform for Colombia, Mexico and the UK
-
 - Extended the **SATCOM, Siigo and Alegra** electronic invoicing connectors in a Laravel middleware: queued resend of failed invoices, company registration with providers, and per-request tracing.
-- Maintained **NestJS** services on TypeORM and shared PostgreSQL: country-specific rates, queued bulk membership creation and consistent timezones in reports; fixed production data inconsistencies.
-- Built the corporate **Next.js** site with SSR, i18n and SEO; documented APIs with OpenAPI and took part in Docker and Portainer deployments.
+- Maintained the **NestJS and PostgreSQL** services of a parking platform in Colombia, Mexico and the UK: country-specific rates, queued bulk membership creation and consistent timezones in reports.
+- Built the corporate **Next.js** site with SSR, i18n and SEO and documented the APIs with OpenAPI.
 
 `NestJS` `TypeORM` `PostgreSQL` `Laravel` `Next.js` `OpenAPI`
 
@@ -137,11 +131,9 @@ Recording and transcription app for neuropsychology sessions, where the audio ne
 
 <br/>
 
-> Started as a SENA intern; permanent contract from Jul. 2023
-
-- Handled **L2/L3 production incidents** and joined war rooms; diagnosed failures through SQL, code review and Sentry, and documented root causes.
+- Diagnosed **L2/L3 production incidents** by tracing each failure through SQL, code review and Sentry, and documented its root cause.
 - Built **Laravel APIs** for a benefits platform in more than five Latin American countries, with queues for validated payment uploads, duplicate cleanup and notifications.
-- Built queries, **PL/SQL** procedures and Excel exports for other teams; optimized large listings and used Docker/DDEV for legacy systems.
+- Wrote queries, **PL/SQL** procedures and Excel exports for other teams, and containerized legacy systems with Docker/DDEV.
 
 `Laravel` `MySQL` `Oracle PL/SQL` `Sentry` `Docker` `Redis`
 

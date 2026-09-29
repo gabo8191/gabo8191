@@ -273,15 +273,15 @@ def build_header(template: dict[str, Face]) -> str:
     )
 
     stickers = [
-        Sticker("MT103 → pacs.008", "SWIFT · ISO 20022", INK, PAPER, 800, 88, -5),
+        Sticker("Systems that talk", "banks, invoicing, CRMs", INK, PAPER, 796, 88, -5),
         Sticker(
-            "Siigo · Alegra · SATCOM", "e-invoicing connectors", PINK, INK, 836, 174, 4
+            "Bugs traced to the root", "SQL → logs → code", PINK, INK, 806, 174, 4
         ),
         Sticker(
-            "L2/L3 incidents", "SQL · Sentry · war rooms", PAPER, INK, 790, 260, -3
+            "Busywork → internal tool", "Django, Laravel, React", PAPER, INK, 780, 262, -3
         ),
         Sticker(
-            "Django + Celery", "PBIX → Tableau estimates", BLUE, PAPER, 866, 342, 5
+            "Bank messages, translated", "SWIFT to ISO 20022", BLUE, PAPER, 800, 346, 4
         ),
     ]
     # Stickers fall in below the marquee strip, never over it
@@ -292,7 +292,7 @@ def build_header(template: dict[str, Face]) -> str:
     )
 
     footer_line = (
-        "Python/Django · NestJS · Laravel · Java · SQL — Tunja, Colombia · Remote"
+        "Python/Django, NestJS, Laravel, Java, SQL | Tunja, Colombia | Remote"
     )
     body = f"""
   <defs>{clips}<clipPath id="desk"><rect x="0" y="52" width="{width}" height="{height - 52}"/></clipPath></defs>
