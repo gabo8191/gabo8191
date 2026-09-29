@@ -1,237 +1,174 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gabo8191/gabo8191/main/assets/header.svg" alt="Gabriel Castillo — Backend and Integration Developer" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Backend+%E2%80%A2+Integrations+%E2%80%A2+SQL;Production+Support+%E2%80%A2+Internal+Tools" alt="Backend, integrations, SQL, production support and internal tools" /></a>
+<img src="assets/header.svg" alt="Gabriel Castillo — Backend and Integration Engineer. Stickers: MT103 to pacs.008 (SWIFT, ISO 20022), Siigo · Alegra · SATCOM e-invoicing connectors, L2/L3 incidents, Django + Celery." width="100%"/>
 
 <br/>
 
-[![Keyrus](https://img.shields.io/badge/BI_%26_Data_Analytics_@_Keyrus-1B1F3B?style=for-the-badge&logoColor=white)](https://www.keyrus.com/co/es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
-
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-gabo8191.github.io-0D0D0D?style=for-the-badge&labelColor=FFD93D)](https://gabo8191.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabodev8191-0D0D0D?style=for-the-badge&labelColor=FF6FB5)](https://linkedin.com/in/gabodev8191)
+[![Email](https://img.shields.io/badge/Email-gabo8191@gmail.com-0D0D0D?style=for-the-badge&labelColor=FFFDF5)](mailto:gabo8191@gmail.com)
 
 </div>
 
-<br/>
+<h2><img src="assets/section-about.svg" alt="01 / About — What I do" width="100%"/></h2>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+I build backend systems and integrations and diagnose production incidents. I have over three years of remote experience with APIs, SQL, queues, financial messaging, electronic invoicing and internal tools using Python/Django, NestJS, Laravel and Java.
 
-```python
-class Gabriel:
+I like the difficult part of a system: following a record, message or transaction through SQL, logs and code until the failure is clear, then turning the finding into a fix the team can maintain.
 
-    role = "Backend Developer · Integrations · Production Support"
-    company = "Keyrus — BI & Data Analytics Intern (Visualization)"
-    location = "Tunja, Colombia"
-    focus = ["Backend", "Integrations", "SQL", "Internal Tools"]
+| System integrations | Production support | Internal tools |
+|---|---|---|
+| SWIFT MT and ISO 20022 messaging, electronic invoicing connectors and data workflows between systems. | L2/L3 incidents traced through SQL, logs and code, with a written root cause. | Estimation tools, inventory platforms, reports, queued exports and admin panels. |
 
-    stack = {
-        "languages": ["Python", "TypeScript", "PHP", "SQL"],
-        "data": ["SQL", "Pandas", "Power BI", "Tableau"],
-        "backend": ["Django", "Laravel", "NestJS", "Java", "Apache Camel"],
-        "databases": ["PostgreSQL", "MySQL", "Redis"],
-        "devops": ["Docker", "GitHub Actions", "Linux", "Nginx"],
-        "operations": ["L2/L3 Support", "Sentry", "Docker"],
-    }
-```
+> Kubernetes, Terraform and observability are areas I practice in personal projects; I do not present them as employer-operated production infrastructure.
 
-I build backend systems and integrations and investigate production incidents. I like following a record or message through SQL, logs and code until the failure is clear and the fix is maintainable. My work spans financial messaging, electronic invoicing, regional benefits platforms and internal tools. At Keyrus I built a Django application that analyzes PBIX files and produces migration estimates used by the team; formal application deployment is pending.
+<h2><img src="assets/section-stack.svg" alt="02 / Stack — Tools I use" width="100%"/></h2>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="550"/>
-</div>
+<img src="assets/stack.svg" alt="Languages: Python, TypeScript, PHP, Java, SQL. Backend: Django, DRF, Celery, NestJS, Laravel, Filament, Apache Camel, REST, OpenAPI. Data: PostgreSQL, MySQL, Oracle PL/SQL, Redis, pandas, Excel, Power BI, Tableau. Operations: L2/L3 diagnosis, Sentry, Docker, Portainer, GitHub Actions, Linux." width="100%"/>
 
----
-
-## Technical focus
-
-| Area | Professional experience |
-|---|---|
-| Backend and integration | Python/Django, DRF, NestJS, Laravel, Java/Apache Camel, REST APIs, SWIFT/ISO 20022 |
-| Data and messaging | SQL, PostgreSQL, MySQL, Oracle/PL-SQL, Redis, Celery, queued jobs, CSV/Excel reporting |
-| Production support | L2/L3 incident diagnosis, Sentry, Docker/DDEV, Portainer, OpenAPI and CI |
-| Analytics | Power BI, Tableau and Python data preparation |
-
-Kubernetes, Terraform and observability are areas I practice in personal projects; I do not present them as employer-operated production infrastructure.
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Open Source
-
-> Projects I build and maintain in the open. Contributions, ideas and stars are welcome ⭐
+<h2><img src="assets/section-open-source.svg" alt="03 / Open source — Built in the open" width="100%"/></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [TomoReader](https://github.com/gabo8191/TomoReader)
+### [TomoReader](https://github.com/gabo8191/TomoReader)
 
-Desktop comic & manga reader (**CBR/CBZ**) built with **Rust + Tauri 2** and React. Eye-friendly reading themes, reading-progress tracking and a SQLite-backed library.
+Desktop comic and manga reader (**CBR/CBZ**) built with **Rust + Tauri 2** and React. Eye-friendly reading themes, reading-progress tracking and a SQLite-backed library.
 
 `Rust` `Tauri` `React` `TypeScript` `SQLite`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/TomoReader)
+[![Repo](https://img.shields.io/badge/View_repo-→-0D0D0D?style=flat-square&labelColor=FFD93D)](https://github.com/gabo8191/TomoReader)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗣️ [AutoTranslate-Anki](https://github.com/gabo8191/AutoTranslate-Anki)
+### [AutoTranslate-Anki](https://github.com/gabo8191/AutoTranslate-Anki)
 
-**Anki** add-on that auto-fills note translations for a whole deck in one click — built in **Python**, no API key required. Configurable language pairs and field mapping.
+**Anki** add-on that fills note translations for a whole deck in one click. Built in **Python**, no API key required, with configurable language pairs and field mapping.
 
 `Python` `Anki` `Add-on`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/AutoTranslate-Anki)
+[![Repo](https://img.shields.io/badge/View_repo-→-0D0D0D?style=flat-square&labelColor=FF6FB5)](https://github.com/gabo8191/AutoTranslate-Anki)
 
 </td>
-
 </tr>
 </table>
 
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Live Projects
-
-> Public web demos. NeuroSess transcription runs in a separate local engine.
+<h2><img src="assets/section-live.svg" alt="04 / Live — Live projects" width="100%"/></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 [Cadáver Exquisito](https://cadaver-exquisito-six.vercel.app/)
+### [Cadáver Exquisito](https://cadaver-exquisito-six.vercel.app/)
 
-Serverless multiplayer web app for collective storytelling. A group builds a story in turns with **no backend**: the Host's browser runs the authoritative engine over **WebRTC** (PeerJS), and all state persists locally in **IndexedDB**. Nobody sees what others wrote until the final reveal.
+Serverless multiplayer web app for collective storytelling. A group builds a story in turns with **no backend**: the host's browser runs the authoritative engine over **WebRTC** (PeerJS), and all state persists locally in **IndexedDB**. Nobody sees what others wrote until the final reveal.
 
 `TypeScript` `React` `Vite` `WebRTC` `IndexedDB`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://cadaver-exquisito-six.vercel.app/)
+[![Live demo](https://img.shields.io/badge/Live_demo-→-0D0D0D?style=flat-square&labelColor=FFD93D)](https://cadaver-exquisito-six.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [NeuroSess](https://neurosess.netlify.app/)
+### [NeuroSess](https://neurosess.netlify.app/)
 
-Recording and transcription app for neuropsychology sessions, where the audio never leaves the consulting room. A static **Next.js** frontend talks over loopback to a **local Python engine** — FastAPI + **faster-whisper**, shipped as a **PyInstaller** binary for Windows and Linux — that is the only piece running inference and writing to disk. Everything else lives in the browser's **IndexedDB**.
+Recording and transcription app for neuropsychology sessions, where the audio never leaves the consulting room. A static **Next.js** frontend talks over loopback to a **local Python engine** (FastAPI + **faster-whisper**, shipped as a **PyInstaller** binary for Windows and Linux), the only piece that runs inference and writes to disk.
 
 `TypeScript` `Next.js` `Python` `FastAPI` `faster-whisper` `IndexedDB`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://neurosess.netlify.app/)
-[![Engine](https://img.shields.io/badge/Local_Engine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabo8191/neurosess-engine)
+[![Live demo](https://img.shields.io/badge/Live_demo-→-0D0D0D?style=flat-square&labelColor=FF6FB5)](https://neurosess.netlify.app/)
+[![Engine](https://img.shields.io/badge/Local_engine-→-0D0D0D?style=flat-square&labelColor=FFFDF5)](https://github.com/gabo8191/neurosess-engine)
 
 </td>
-
 </tr>
 </table>
 
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Experience
+<h2><img src="assets/section-experience.svg" alt="05 / Experience — Where I worked" width="100%"/></h2>
 
 <details open>
-<summary><b>Keyrus Colombia</b> — BI &amp; Data Analytics Intern <sup>(Jul 2026 - Present)</sup></summary>
+<summary><b>Keyrus Colombia</b> · BI and Data Analytics Intern · <code>Jul. 2026 – Present</code></summary>
 
 <br/>
 
-> Analytics and an internal tool for estimating Power BI to Tableau migrations
+> Data consulting; Power BI to Tableau dashboard migration
 
-- Designed and built a **Django application** that analyzes PBIX files and estimates dashboard migration effort. The team uses its estimates; formal application deployment is pending.
-- Built a **DRF API**, Celery/Redis background jobs, PostgreSQL persistence, Excel reporting and automated checks in GitHub Actions.
-- Prepare and validate analytics data with **SQL and Python** for dashboard and migration work.
+- Designed and built an internal **Django** application that reads PBIX files, scores dashboard complexity with AHP and estimates Tableau migration hours with PERT. The team uses its estimates; formal deployment is pending.
+- Built a **DRF API**, Celery and Redis background analysis, PostgreSQL persistence and an eleven-sheet Excel workbook per dashboard on a hexagonal architecture.
+- Prepared and validated data with **SQL and Python** for dashboard analysis and migration.
 
-`Python` `Django` `DRF` `Celery` `PostgreSQL` `SQL`
+`Python` `Django` `DRF` `Celery` `Redis` `PostgreSQL` `SQL`
 
 </details>
 
 <details>
-<summary><b>TotalDev SAS</b> — Freelance Fullstack Developer <sup>(Feb 2025 - Mar 2026)</sup></summary>
+<summary><b>TotalDev SAS</b> · Freelance Full Stack Developer · <code>Feb. 2025 – Mar. 2026</code></summary>
 
 <br/>
 
-> Interbank messaging, inventory systems, events and content management. Freelance work overlapped with PARQ through Jul 2025.
+> Custom software; overlapped with PARQ until Jul. 2025
 
-- Added **MT103 and MT202 support** to a Java/Apache Camel SWIFT gateway: parsers, validators, JSON mapping files and automated **MT → pacs.008** and **pacs.009 → MT202** flows, with resilient batch processing.
-- Main developer of an **electoral inventory platform**: bulk imports with row-level errors, permissions by department and municipality, Excel reports and cached PDF/ZIP generation in a queued job.
-- Built a **QR-scanning PWA** for plant operators with its Laravel/Filament backend, guest registration with **one-use QR codes** and event-driven email, and cached Filament CMS panels.
-- Maintained reports for an insurance industry registry and modeled the discounts module of an inspection system.
+- Added MT message support to a **Java/Apache Camel** gateway: MT103 and MT202 parsers and validators, JSON mapping files, and automated MT to pacs.008 and pacs.009 to MT202 flows.
+- Built most of an electoral inventory platform in **Laravel and React**: bulk imports with row-level errors, department and municipality permissions, Excel reports, and queued, cached PDF and ZIP generation.
+- Built a QR-scanning **PWA** for plant operators with its Filament backend, and guest registration with one-use QR codes and event-driven email.
 
-`Java` `Apache Camel` `SWIFT` `Laravel` `Filament` `React` `PWA`
+`Java` `Apache Camel` `SWIFT` `ISO 20022` `Laravel` `Filament` `React` `PWA`
 
 </details>
 
 <details>
-<summary><b>PARQ</b> — Fullstack Developer <sup>(Nov 2024 - Jul 2025)</sup></summary>
+<summary><b>PARQ</b> · Full Stack Developer · <code>Nov. 2024 – Jul. 2025</code></summary>
 
 <br/>
 
-> Parking services, electronic invoicing and production data diagnosis
+> Parking platform for Colombia, Mexico and the UK
 
-- Extended the **SATCOM, Siigo and Alegra** electronic invoicing connectors of a Laravel middleware: queued resend of failed invoices, provider company registration and per-request tracing.
-- Worked on **NestJS services sharing PostgreSQL**: country-specific rates, queued bulk membership creation and a platform-wide timezone standard; traced production data inconsistencies into the code.
-- Rebuilt the corporate site in **Next.js** with SSR, i18n and SEO; documented APIs with Swagger/OpenAPI.
+- Extended the **SATCOM, Siigo and Alegra** electronic invoicing connectors in a Laravel middleware: queued resend of failed invoices, company registration with providers, and per-request tracing.
+- Maintained **NestJS** services on TypeORM and shared PostgreSQL: country-specific rates, queued bulk membership creation and consistent timezones in reports; fixed production data inconsistencies.
+- Built the corporate **Next.js** site with SSR, i18n and SEO; documented APIs with OpenAPI and took part in Docker and Portainer deployments.
 
-`NestJS` `TypeORM` `PostgreSQL` `Laravel` `Next.js` `Swagger`
+`NestJS` `TypeORM` `PostgreSQL` `Laravel` `Next.js` `OpenAPI`
 
 </details>
 
 <details>
-<summary><b>SEREMPRE</b> — Backend Developer <sup>(Jan 2023 - Nov 2024)</sup></summary>
+<summary><b>SEREMPRE</b> · Backend Developer · <code>Jan. 2023 – Nov. 2024</code></summary>
 
 <br/>
 
-> Laravel backend and L2/L3 production support for regional benefits and insurance systems
+> Started as a SENA intern; permanent contract from Jul. 2023
 
-- Joined the Membeers backend team as a **SENA intern** and continued as a backend developer after Jul 2023.
-- Built **Laravel APIs** for web and mobile applications and handled **L2/L3 incidents** with SQL, code inspection, Sentry and incident war rooms.
-- Built queued payment uploads with validation, duplicate cleanup, Excel exports and PL/SQL reports; worked with Docker/DDEV and integrated Cloudinary and Moodle LTI.
+- Handled **L2/L3 production incidents** and joined war rooms; diagnosed failures through SQL, code review and Sentry, and documented root causes.
+- Built **Laravel APIs** for a benefits platform in more than five Latin American countries, with queues for validated payment uploads, duplicate cleanup and notifications.
+- Built queries, **PL/SQL** procedures and Excel exports for other teams; optimized large listings and used Docker/DDEV for legacy systems.
 
-`Laravel` `MySQL` `Docker` `Redis` `REST APIs`
+`Laravel` `MySQL` `Oracle PL/SQL` `Sentry` `Docker` `Redis`
 
 </details>
 
----
+<h2><img src="assets/section-education.svg" alt="06 / Education — Studies and languages" width="100%"/></h2>
 
-## 🎓 Education
-
-<table>
-<tr>
-<td>🎓</td>
-<td><b>Systems and Computer Engineering</b> — Expected 2026<br/>Pedagogical and Technological University of Colombia (UPTC)</td>
-</tr>
-<tr>
-<td>📜</td>
-<td><b>Information Systems Analysis and Development</b> — 2022<br/>National Learning Service (SENA)</td>
-</tr>
-</table>
-
----
-
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> Languages
-
-|  Language  |          Level          |
-| :--------: | :---------------------: |
-| 🇪🇸 Spanish |         Native          |
-| 🇺🇸 English | B2 - Upper Intermediate |
-
----
+| | |
+|---|---|
+| **Systems and Computer Engineering** | UPTC, Tunja · Expected 2026 |
+| **Information Systems Analysis and Development** (technologist) | SENA · 2022 |
+| **Languages** | Spanish (native) · English (B2) |
 
 <div align="center">
 
-## 📬 Let's Connect
-
-**Based in Tunja, Colombia · Spanish and English (B2)**
-
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabodev8191)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo8191@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabo8191.github.io/portfolio/)
+<img src="assets/footer.svg" alt="Let's talk systems." width="100%"/>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20Views&color=A960FF&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gabo8191.github.io-0D0D0D?style=for-the-badge&labelColor=FFD93D)](https://gabo8191.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabodev8191-0D0D0D?style=for-the-badge&labelColor=FF6FB5)](https://linkedin.com/in/gabodev8191)
+[![Email](https://img.shields.io/badge/Email-gabo8191@gmail.com-0D0D0D?style=for-the-badge&labelColor=FFFDF5)](mailto:gabo8191@gmail.com)
 
-<img src="https://raw.githubusercontent.com/gabo8191/gabo8191/main/assets/footer.svg" alt="" width="100%"/>
+![Profile views](https://komarev.com/ghpvc/?username=gabo8191&label=Profile%20views&color=0D0D0D&style=for-the-badge)
+
+<sub>Tunja, Colombia · Remote · Spanish and English</sub>
 
 </div>
