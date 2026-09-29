@@ -101,7 +101,7 @@ class Face:
         options.layout_features = ["kern", "liga"]
         subsetter = subset.Subsetter(options)
         subsetter.populate(text="".join(sorted(self.used)))
-        font = TTFont(io.BytesIO(self._raw()))
+        font = TTFont(io.BytesIO(self._raw()), recalcTimestamp=False)
         subsetter.subset(font)
         buffer = io.BytesIO()
         font.save(buffer)
